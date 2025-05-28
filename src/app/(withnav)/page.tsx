@@ -14,7 +14,7 @@ export default function CatalogPage() {
     <div className="flex-1 flex flex-column align-items-center p-6">
       <div style={{ maxWidth: 1200 }} className="w-full">
         <div className="flex justify-content-between align-items-center">
-          <h1 className="text-3xl font-semibold text-gray-800 m-0">Welcome to GovBot</h1>
+          <h1 className="text-3xl font-semibold text-gray-800 m-0">Welcome to Kaki Buddy</h1>
         </div>
 
         <p className="text-gray-600 text-lg mb-5">
